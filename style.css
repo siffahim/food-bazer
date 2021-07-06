@@ -84,6 +84,17 @@ h1{
     color:orangered
 }
 /*finish icon dising*/
+.map_section{
+    padding: 3%;
+    box-shadow: 0 0 10px rgb(0,0,0,0.3);
+}
+.form{
+    margin-left: 10%;
+}
+.form input{
+    width: 405px;
+    height: 27px;
+}
 
 
 footer{
@@ -137,7 +148,7 @@ nav li a:hover{
     box-shadow: 0 0 5px orangered;
 }
 .posittion_left{
-    margin-right: 400px;
+    margin-right: 390px;
     color:orangered;
 }
 /*nav finish css code*/
