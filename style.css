@@ -39,7 +39,7 @@ h1{
     padding:2%;
 }
 .about_bg{
-    background: black;
+    background: rgb(41, 40, 40);
     color:white;
     padding-top: 7%;
     margin-bottom: 70px;
@@ -54,7 +54,6 @@ h1{
     margin-left:5%;
     padding: 1%;
     border-radius: 15px;
-    background:white;
 }
 .card img{
     width: 100%;
@@ -63,19 +62,18 @@ h1{
 .card-center{
     justify-content: center;
     align-items: center;
-    margin-bottom: 50px;
 }
 .card_two{
-    background:white;
     text-align: center;
     box-shadow: none;
 }
+.card_two h2{
+    color:white;
+}
 .card-two-wrapper{
-    width: 90%;
-    margin:0 auto;
     box-shadow: 0 0 10px rgb(0,0,0,0.3);
-    margin-bottom: 50px;
-    border-radius: 10px;
+    background: rgb(41, 40, 40);
+    margin-top: 60px;
 }
 /*font-awesome-icon default class*/
 /*start icon dising*/
@@ -98,7 +96,7 @@ h1{
 
 
 footer{
-    background: black;
+    background: rgb(31, 30, 30);
     text-align: center;
     color:white;
     padding-top:1%;
