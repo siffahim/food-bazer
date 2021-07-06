@@ -133,13 +133,14 @@ nav li a{
     padding:10px 15px;
     color:black;
     border-radius: 20px;
+    margin-left: 5px;
 }
 nav li a:hover{
     background-image:linear-gradient(orangered,orange);
     color:white;
 }
 .posittion_right{
-    margin-left: 400px;
+    margin-left: 380px;
     text-decoration: none;
     display: block;
     padding: 10px 15px;
